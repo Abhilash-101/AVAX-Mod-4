@@ -7,7 +7,7 @@
 ## Features
 
 - **ERC20 Compliance**: The contract follows the ERC20 standard, allowing standard token operations such as transfer, minting, and burning.
-- **Item Redemption**: Users can redeem their tokens for in-game items such as MTB, HYBRID, and ROADBIKE.
+- **Item Redemption**: Users can redeem their tokens for in-game items such as IRON, DIAMOND, and NETHERITE.
 - **Item Tracking**: The contract tracks item quantities available in the store and items owned by each user.
 - **Ownership Control**: The owner of the contract has exclusive rights to mint new tokens.
 
