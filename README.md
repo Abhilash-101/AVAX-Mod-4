@@ -1,6 +1,5 @@
 ---
 # DegenToken
-
 `DegenToken` is a custom ERC20 token built on the Ethereum blockchain. The token allows users to mint, transfer, burn, and redeem tokens for items. The contract also provides functionality to view available items in the store and the items owned by individual accounts.
 
 ## Features
